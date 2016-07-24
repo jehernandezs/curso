@@ -1,4 +1,7 @@
 # README
+Este es un proyecto de ejemplo realizado para el curso del SENA
+En San pedro de Los mIlagros
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
